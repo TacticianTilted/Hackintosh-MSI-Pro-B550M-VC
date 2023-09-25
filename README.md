@@ -10,3 +10,5 @@ For the GPU Driver Kext, you can download the GPU Accel Kext from [this link](ht
 Please note that the GPU Accel is basic and not suitable for gaming, but it works well for basic tasks in macOS and prevents poor performance.
 
 **Note**: Wi-Fi and Bluetooth functionality are not supported on this setup.
+
+**Minimum macOS Version**: This system requires a minimum of macOS Monterey.
